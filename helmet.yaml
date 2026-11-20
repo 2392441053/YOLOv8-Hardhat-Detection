@@ -1,0 +1,6 @@
+path: D:/todo/AI_project/my_yolo/datasets
+train: train
+val: valid
+
+nc: 2
+names: ['NO-Hard-hat', 'Hard-hat']
