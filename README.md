@@ -23,6 +23,7 @@
 ├── best.pt         # 微调训练后的最优安全帽检测模型
 ├── helmet.yaml     # YOLOv8 数据集配置文件
 └── README.md       # 项目说明文档
+``` 
 
 ## 🚀 快速开始
 安装依赖环境：pip install ultralytics gradio opencv-python
